@@ -1,6 +1,7 @@
 # ElectraWiFiBoard
 
 A PCB which enables connecting an Electra air conditioner to internet using a Wemos D1 mini esp8266 module
+
 The circuit is based on the [ElectraWiFi](https://github.com/giladger/ElectraWifi) repository by [giladger](https://github.com/giladger)
 
 I designed it using KiCad
