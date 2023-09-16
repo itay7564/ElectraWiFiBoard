@@ -30,3 +30,6 @@ fp-info-cache
 *.xlsx
 
 Gerbers/
+
+# lock files
+*.lck
